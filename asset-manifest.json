@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google-search/static/css/main.a240c550.css",
+    "main.js": "/google-search/static/js/main.fec80599.js",
+    "index.html": "/google-search/index.html",
+    "main.a240c550.css.map": "/google-search/static/css/main.a240c550.css.map",
+    "main.fec80599.js.map": "/google-search/static/js/main.fec80599.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.fec80599.js"
+  ]
+}
